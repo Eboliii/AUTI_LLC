@@ -19,7 +19,6 @@ O objetivo principal do sistema é organizar o cadastro de clientes da AUTI LLC,
 
 - dificuldade em localizar informações de clientes
 - falta de organização dos dados
-- demora no atendimento ao cliente
 - ausência de um sistema simples de gerenciamento
 
 Com o sistema é possível gerenciar os dados de forma rápida e segura.
